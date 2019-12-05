@@ -1,6 +1,6 @@
 # wechat-emojify
 
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier) [![Greenkeeper badge](https://badges.greenkeeper.io/Nikaple/wechat-emojify.svg)](https://greenkeeper.io/)
 
 在网页上正确显示微信昵称中的 `emoji`
 
